@@ -62,7 +62,7 @@ const Chat = () => {
         {
           headers: {
             "Content-Type": "application/json",
-            Authorization: `Bearer `,
+            Authorization: `Bearer YOUR_API_KEY HERE`,
           },
         }
       );
